@@ -2,7 +2,7 @@
 
 This project implements a parametrizable SSTF (Shortest Seek Time First) I/O scheduler as a Linux kernel module, along with a user-space C program (`sector_read`) to benchmark disk I/O performance.
 
-It was developed for the Operating Systems Construction course at PUCRS, under Professor Iaçanã Ianiski Weber.
+It was developed for the Operating Systems Construction course at PUCRS, under Professor Sérgio Johann Filho
 
 ## Features
 
