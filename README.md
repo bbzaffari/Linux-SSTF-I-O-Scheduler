@@ -15,7 +15,7 @@ It was developed for the Operating Systems Construction course at PUCRS, under P
 - Includes scripts and Makefile for building and running in a QEMU + Buildroot environment.
 - Academic report comparing SSTF and NOOP schedulers under varied workloads.
 
-**For verification details, testing notes, and technical explanations, refer to the** [**project report***](report.pdf)
+For a detailed explanation of attack detection logic, experimental setup, and results, please refer to the 🔗[**full technical report***](/report.pdf)
 ## How to Run
 
 1. Copy files to `/modules/sstf` in your Linux build.
