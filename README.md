@@ -1,6 +1,5 @@
-![Badge](https://img.shields.io/badge/-Educational-Purpose-blue?style=for-the-badge&logo=academia) 
 
-![Badge](https://img.shields.io/badge/Educational-Purpose-blue?style=for-the-badge&logo=academia) 
+![Badge](https://img.shields.io/badge/Educational%20Purpose-blue?style=for-the-badge&logo=academia) 
 # SSTF I/O Scheduler for Linux
 
 This project implements a parametrizable SSTF (Shortest Seek Time First) I/O scheduler as a Linux kernel module, along with a user-space C program (`sector_read`) to benchmark disk I/O performance.
